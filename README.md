@@ -3,16 +3,16 @@
   - Software engineering
   - Linguistics
   - Silent Film
-  - Cylinder Record Players
-  - Transit and Land Use Planning
+  - Cylinder record players
+  - Transit and land-use planning
   - Bikes
-  - Film Photography
+  - Film photography
   - Jazz
   - Cymraeg/Welsh
-  - Model Streetcars/Tramways
+  - Model streetcars/tramways
 - 🌱 I’m currently learning
   - Azure
-  - Film Projection
+  - Film projection
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [@14mission@sfba.social](https://sfba.social/@14mission)
 - 😄 Pronouns: he/him
