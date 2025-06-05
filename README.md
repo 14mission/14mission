@@ -9,9 +9,12 @@
   - Film Photography
   - Jazz
   - Cymraeg/Welsh
-- 🌱 I’m currently learning ...
+  - Model Streetcars/Tramways
+- 🌱 I’m currently learning
+  - Azure
+  - Film Projection
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: @14mission@sfba.social 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
