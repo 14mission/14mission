@@ -16,7 +16,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [@14mission@sfba.social](https://sfba.social/@14mission)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I volunteer at a Silent Movie Theater
 
 <!---
 14mission/14mission is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
