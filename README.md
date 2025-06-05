@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @14mission
 - 👀 I’m interested in
-  Software engineering
-  Linguistics
-  Silent Film
-  Cylinder Record Players
-  Transit and Land Use Planning
-  Bikes
-  Film Photography
-  Jazz
+  - Software engineering
+  - Linguistics
+  - Silent Film
+  - Cylinder Record Players
+  - Transit and Land Use Planning
+  - Bikes
+  - Film Photography
+  - Jazz
+  - Cymraeg/Welsh
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
