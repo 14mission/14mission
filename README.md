@@ -14,7 +14,7 @@
   - Azure
   - Film Projection
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: @14mission@sfba.social 
+- 📫 How to reach me: [@14mission@sfba.social](https://sfba.social/@14mission)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
